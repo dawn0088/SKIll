@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+build/
+cmake-build-*/
+*.elf
+*.bin
+*.hex
+*.map
+*.log
