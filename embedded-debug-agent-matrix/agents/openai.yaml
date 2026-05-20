@@ -1,0 +1,3 @@
+display_name: Embedded Debug Agent Matrix
+short_description: Embedded co-debug workflow skill
+default_prompt: Use this skill to analyze STM32, ESP32, sensor, motor-control, datasheet, pin-map, compiler-log, serial-trace, SWD-dump, and PID closed-loop debugging tasks.
